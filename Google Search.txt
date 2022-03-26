@@ -1,0 +1,11 @@
+
+Syntax:
+
+"personal trainer" "sp"  -noticias, folha.uol.com.br, -estadao, -globo.com,  -bbc, -cnnbrasil
+Keyword	Region	Exceptions
+
+
+Regions: SP, MG, RS, BA, RJ, DF, PR
+Keywords: 
+?hospitalares, hospital, clinica, enfermagem, odontologia, dentista, veterinario, farmacia, drugstore,  casa de repouso
+?Fitness, personal trainer, ginastica, esportes, yoga
